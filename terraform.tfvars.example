@@ -1,0 +1,8 @@
+aws_key_name = "aj"
+
+worker_count = 1
+
+# hostname of GitHub enterprise installation
+enterprise_host_name = "CHANGEME"
+
+rabbitmq_password = "CHANGEME"
